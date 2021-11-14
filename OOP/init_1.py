@@ -13,4 +13,4 @@ class myclass():
 a= myclass()
 a.set_value(100)
 
-#example for constructor __init__() function
+#example for constructor __init__() fuction
