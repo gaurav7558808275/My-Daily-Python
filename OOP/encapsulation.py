@@ -9,11 +9,11 @@ class mainclass(object):
 #initialisation of a class instance
 
 a = mainclass()
-b = mainclass()
+
 
 a.set_value(10)
-b.set_value(100)
+
 
 print (a.ge_value())
-print(b.ge_value())        
+        
         
