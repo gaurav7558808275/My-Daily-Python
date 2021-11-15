@@ -1,19 +1,19 @@
 # My-Daily-Python
 ## Practice Python for the good!
 - [x] Python 3 vs Python 2
-- [x ] Code Editors (choose one)
+- [x] Code Editors (choose one)
 - [ ] VSCode
-- [ ] Juypter Notebook
+- [x] Juypter Notebook
 - [ ] Google Colab
-- [ ] How Python Works
+- [x] How Python Works
 - [ ] Python Interpreter
-- [ ] Running Python Code
+- [x] Running Python Code
 - [ ] Data Types and their Operations and Use
 - [ ] Numbers, Operators, Operator Precedence
-- [ ] Variables
-- [ ] Type Conversion
-- [ ] Indentation
-- [ ] Logical Operators
+- [x] Variables
+- [x] Type Conversion
+- [x] Indentation
+- [x] Logical Operators
 - [ ] Conditionals - If, Else, Else if, Truthy, Falsey
 - [ ] Loops: for, while, loop control statements (break, continue, etc)
 - [ ] Functions: scope, parameters, arguments, return
