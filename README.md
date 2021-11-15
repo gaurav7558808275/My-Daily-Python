@@ -1,7 +1,7 @@
 # My-Daily-Python
 ## Practice Python for the good!
 - [x] Python 3 vs Python 2
-- [ ] Code Editors (choose one)
+- [x ] Code Editors (choose one)
 - [ ] VSCode
 - [ ] Juypter Notebook
 - [ ] Google Colab
