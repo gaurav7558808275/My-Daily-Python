@@ -1,6 +1,6 @@
 # My-Daily-Python
 ## Practice Python for the good!
--[ ] Python 3 vs Python 2
+- [ ] Python 3 vs Python 2
 [] Code Editors (choose one)
 Vim
 VSCode
