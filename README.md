@@ -19,3 +19,24 @@
 - [ ] Functions: scope, parameters, arguments, return
 - [ ] Built-in Functions
 - [ ] Commenting: single-line, multi-line, docstrings
+## Advanced Topics
+- [ ] OOP
+- [ ] Classes
+- [ ] Dunder
+- [ ] Methods
+- [ ] Inheritance
+- [ ] Decorators
+- [ ] Functional Programming
+- [ ] Lambda Functions
+- [ ] Map, filter, zip, reduce
+- [ ] Errors
+- [ ] Error Handling: try, except
+- [ ] File I/O
+- [ ] Regex
+- [ ] Testing, unittest
+- [ ] Import
+- [ ] Modules
+- [ ] Packages
+- [ ] Pip
+- [ ] Virtual Environments
+- [ ] Debugging
