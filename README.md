@@ -46,3 +46,16 @@
 - [ ] Big O Notation
 - [ ] Data Structures
 - [ ] Algorithm
+## ML and DataScience
+- [ ] Tensorflow
+- [ ] PyTorch
+- [ ] Keras
+- [ ] Scikit-learn
+- [ ] Numpy
+- [ ] Pandas
+- [ ] SciPy
+- [ ] Matplotlib
+- [ ] Seaborn
+- [ ] Neural Networks
+- [ ] Machine Learning Algorithms
+- [ ] Data
