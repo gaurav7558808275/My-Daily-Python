@@ -40,3 +40,9 @@
 - [ ] Pip
 - [ ] Virtual Environments
 - [ ] Debugging
+## Computer Science Topics
+- [ ] Time Complexity
+- [ ] Space Complexity
+- [ ] Big O Notation
+- [ ] Data Structures
+- [ ] Algorithm
