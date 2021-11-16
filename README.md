@@ -61,5 +61,5 @@
 - [ ] Data
 
 ## Important Links. 
-Python tutorials :  https://wiki.python.org/moin/BeginnersGuide/Programmers
-Python Beginner Projects  : https://www.freecodecamp.org/news/python-projects-for-beginners/#mad-libs-python-project
+1) Python tutorials :  https://wiki.python.org/moin/BeginnersGuide/Programmers
+2) Python Beginner Projects  : https://www.freecodecamp.org/news/python-projects-for-beginners/#mad-libs-python-project
