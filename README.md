@@ -62,3 +62,4 @@
 
 ## Important Links. 
 Python tutorials :  https://wiki.python.org/moin/BeginnersGuide/Programmers
+Python Beginner Projects  : https://www.freecodecamp.org/news/python-projects-for-beginners/#mad-libs-python-project
