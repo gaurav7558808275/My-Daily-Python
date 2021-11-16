@@ -1,4 +1,7 @@
 #inheritance knowledge
+import pandas
+import os
+import matplotlib
 
 class date():
     def date_print(self):
@@ -6,9 +9,12 @@ class date():
 
 class time (date):
     def time_print(self):
-        print("07:00:00")
+            print("07:00:00")
 
 
 a = time()
 a.time_print()
 a.date_print()
+
+
+# using the inheritance technique.
