@@ -40,3 +40,15 @@ str1 = bytearray(str,'utf-8')
 str2 = bytearray(str,'utf-16')
 print(str1)
 print(str2)
+
+# enuemrate() function is used for enumeration from intial to final
+
+list_1  = [1,2,3,4,5,6]
+enumerate_list = dict(enumerate(list_1))
+print((enumerate_list))
+for item in enumerate(list_1):
+    print(item) # check the outputs
+for count,item in enumerate(list_1):
+    print(count,item) # check outputs
+
+
