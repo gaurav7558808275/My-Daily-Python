@@ -59,3 +59,6 @@
 - [ ] Neural Networks
 - [ ] Machine Learning Algorithms
 - [ ] Data
+
+## Important Links. 
+Python tutorials :  https://wiki.python.org/moin/BeginnersGuide/Programmers
