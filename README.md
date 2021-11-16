@@ -2,7 +2,7 @@
 ## Practice Python for the good!
 - [x] Python 3 vs Python 2
 - [x] Code Editors (choose one)
-- [ ] VSCode
+- [x] VSCode
 - [x] Juypter Notebook
 - [ ] Google Colab
 - [x] How Python Works
