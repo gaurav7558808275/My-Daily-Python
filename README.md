@@ -4,19 +4,19 @@
 - [x] Code Editors (choose one)
 - [x] VSCode
 - [x] Juypter Notebook
-- [ ] Google Colab
+- [x] Google Colab
 - [x] How Python Works
-- [ ] Python Interpreter
+- [x] Python Interpreter
 - [x] Running Python Code
-- [ ] Data Types and their Operations and Use
-- [ ] Numbers, Operators, Operator Precedence
+- [x] Data Types and their Operations and Use
+- [x] Numbers, Operators, Operator Precedence
 - [x] Variables
 - [x] Type Conversion
 - [x] Indentation
 - [x] Logical Operators
-- [ ] Conditionals - If, Else, Else if, Truthy, Falsey
-- [ ] Loops: for, while, loop control statements (break, continue, etc)
-- [ ] Functions: scope, parameters, arguments, return
+- [x] Conditionals - If, Else, Else if, Truthy, Falsey
+- [x] Loops: for, while, loop control statements (break, continue, etc)
+- [x] Functions: scope, parameters, arguments, return
 - [ ] Built-in Functions
 - [ ] Commenting: single-line, multi-line, docstrings
 ## Advanced Topics
