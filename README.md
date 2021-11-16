@@ -18,7 +18,7 @@
 - [x] Loops: for, while, loop control statements (break, continue, etc)
 - [x] Functions: scope, parameters, arguments, return
 - [ ] Built-in Functions. https://docs.python.org/3/library/functions.html
-- [ ] Commenting: single-line, multi-line, docstrings
+- [x] Commenting: single-line, multi-line, docstrings
 ## Advanced Topics
 - [ ] OOP
 - [ ] Classes
