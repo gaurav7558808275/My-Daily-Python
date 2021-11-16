@@ -17,7 +17,7 @@
 - [x] Conditionals - If, Else, Else if, Truthy, Falsey
 - [x] Loops: for, while, loop control statements (break, continue, etc)
 - [x] Functions: scope, parameters, arguments, return
-- [ ] Built-in Functions
+- [ ] Built-in Functions. https://docs.python.org/3/library/functions.html
 - [ ] Commenting: single-line, multi-line, docstrings
 ## Advanced Topics
 - [ ] OOP
