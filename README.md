@@ -40,6 +40,10 @@
 - [ ] Pip
 - [ ] Virtual Environments
 - [ ] Debugging
+## Beginner Projects
+- [ ] QR Code Generation using Python
+- [ ] GUI application for Calendar with Python using Tkinter
+- [ ] Convert Image to a Pencil Sketch using Python
 ## Computer Science Topics
 - [ ] Time Complexity
 - [ ] Space Complexity
