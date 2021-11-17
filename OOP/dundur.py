@@ -12,3 +12,4 @@ a.description()
 b.description()
 
 print(a)
+print(isinstance(a,dog)) #isinstance functon to check whether it is available or not.
