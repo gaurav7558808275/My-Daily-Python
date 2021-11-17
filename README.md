@@ -67,3 +67,5 @@
 ## Important Links. 
 1) Python tutorials :  https://wiki.python.org/moin/BeginnersGuide/Programmers
 2) Python Beginner Projects  : https://www.freecodecamp.org/news/python-projects-for-beginners/#mad-libs-python-project
+3) course plan for data science : https://www.kaggle.com/getting-started/87793
+4) Very elaborate journey of Data Science : https://www.freecodecamp.org/news/data-science-learning-roadmap/
