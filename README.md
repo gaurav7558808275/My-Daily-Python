@@ -20,11 +20,11 @@
 - [x] Built-in Functions. https://docs.python.org/3/library/functions.html
 - [x] Commenting: single-line, multi-line, docstrings
 ## Advanced Topics
-- [ ] OOP
-- [ ] Classes
-- [ ] Dunder
-- [ ] Methods
-- [ ] Inheritance
+- [x] OOP
+- [x] Classes
+- [x] Dunder
+- [x] Methods
+- [x] Inheritance
 - [ ] Decorators
 - [ ] Functional Programming
 - [ ] Lambda Functions
