@@ -17,8 +17,8 @@
 - [x] Conditionals - If, Else, Else if, Truthy, Falsey
 - [x] Loops: for, while, loop control statements (break, continue, etc)
 - [x] Functions: scope, parameters, arguments, return
-- [ ] Built-in Functions. https://docs.python.org/3/library/functions.html
-- [ ] Commenting: single-line, multi-line, docstrings
+- [x] Built-in Functions. https://docs.python.org/3/library/functions.html
+- [x] Commenting: single-line, multi-line, docstrings
 ## Advanced Topics
 - [ ] OOP
 - [ ] Classes
@@ -40,6 +40,10 @@
 - [ ] Pip
 - [ ] Virtual Environments
 - [ ] Debugging
+## Beginner Projects
+- [ ] QR Code Generation using Python
+- [ ] GUI application for Calendar with Python using Tkinter
+- [ ] Convert Image to a Pencil Sketch using Python
 ## Computer Science Topics
 - [ ] Time Complexity
 - [ ] Space Complexity
@@ -61,4 +65,5 @@
 - [ ] Data
 
 ## Important Links. 
-Python tutorials :  https://wiki.python.org/moin/BeginnersGuide/Programmers
+1) Python tutorials :  https://wiki.python.org/moin/BeginnersGuide/Programmers
+2) Python Beginner Projects  : https://www.freecodecamp.org/news/python-projects-for-beginners/#mad-libs-python-project
