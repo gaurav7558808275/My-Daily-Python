@@ -25,9 +25,9 @@
 - [x] Dunder
 - [x] Methods
 - [x] Inheritance
-- [ ] Decorators
-- [ ] Functional Programming
-- [ ] Lambda Functions
+- [x] Decorators
+- [x] Functional Programming
+- [x] Lambda Functions
 - [ ] Map, filter, zip, reduce
 - [ ] Errors
 - [ ] Error Handling: try, except
