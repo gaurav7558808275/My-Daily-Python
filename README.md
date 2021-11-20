@@ -28,7 +28,7 @@
 - [x] Decorators
 - [x] Functional Programming
 - [x] Lambda Functions
-- [ ] Map, filter, zip, reduce
+- [x] Map, filter, zip, reduce
 - [ ] Errors
 - [ ] Error Handling: try, except
 - [ ] File I/O
