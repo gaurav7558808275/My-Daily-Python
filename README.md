@@ -29,8 +29,8 @@
 - [x] Functional Programming
 - [x] Lambda Functions
 - [x] Map, filter, zip, reduce
-- [ ] Errors
-- [ ] Error Handling: try, except
+- [x] Errors
+- [x] Error Handling: try, except
 - [ ] File I/O
 - [ ] Regex
 - [ ] Testing, unittest
