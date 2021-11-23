@@ -31,15 +31,15 @@
 - [x] Map, filter, zip, reduce
 - [x] Errors
 - [x] Error Handling: try, except
-- [ ] File I/O
-- [ ] Regex
-- [ ] Testing, unittest
-- [ ] Import
-- [ ] Modules
-- [ ] Packages
-- [ ] Pip
-- [ ] Virtual Environments
-- [ ] Debugging
+- [x] File I/O
+- [x] Regex
+- [x] Testing, unittest
+- [x] Import
+- [x] Modules
+- [x] Packages
+- [x] Pip
+- [x] Virtual Environments
+- [x] Debugging
 ## Beginner Projects
 - [ ] QR Code Generation using Python
 - [ ] GUI application for Calendar with Python using Tkinter
